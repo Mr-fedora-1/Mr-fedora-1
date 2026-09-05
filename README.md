@@ -2,13 +2,13 @@
 
 # 👋 Hello, I'm Mr.Fedora
 
-### 💻 Web Developer in Progress
+### 💻 Web Developer in Progress | 🎯 Future Bug Bounty Hunter
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
 <br>
 
-> 🚀 Learning. Building. Breaking. Fixing. Repeating.
+> 🚀 Learning Web Development to understand how websites work and how to secure them.
 
 </div>
 
@@ -17,16 +17,17 @@
 ## 🧑‍💻 About Me
 
 * 👋 I'm **Mr.Fedora**
-* 🌐 I'm learning **Web Development**
-* 📚 Currently learning **HTML, CSS & JavaScript**
+* 🌐 Currently learning **Web Development**
+* 📚 Learning **HTML, CSS & JavaScript**
+* 🔐 My long-term goal is **Bug Bounty Hunting & Web Security**
 * 🐧 I enjoy working with **GNU/Linux**
-* 🔧 I use **Git & GitHub** for my projects
-* 💡 My goal is to become a better developer by building real projects
-* 🚀 Always learning something new
+* 🔧 I use **Git & GitHub** for my projects and learning
+* 🧠 I'm focused on understanding how web applications work
+* 🚀 Learning by building, experimenting, and solving challenges
 
 ---
 
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
@@ -34,53 +35,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnu-bash\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat\&logo=markdown\&logoColor=white)
-
-```javascript
-const MrFedora = {
-    name: "Mr.Fedora",
-    role: "Web Developer in Progress",
-
-    learning: [
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Linux",
-        "VS Code"
-    ],
-
-    goal: "Become a better Web Developer 🚀"
-};
-```
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-### 🌐 Front-End Development
+### 🌐 Web Development
 
-* 🟠 **HTML5** — Building the structure of websites
-* 🔵 **CSS3** — Styling and designing websites
-* 🟡 **JavaScript** — Adding logic and interactivity
+* 🟠 **HTML5**
+* 🔵 **CSS3**
+* 🟡 **JavaScript**
+* 🌐 Understanding how websites and web applications work
 
-### 🔧 Development Tools
+### 🔐 Future Focus — Bug Bounty & Web Security
 
-* 🐙 **Git**
-* 🐙 **GitHub**
-* 🐧 **GNU/Linux**
-* 💻 **VS Code**
-* 🖥️ **Terminal / Bash**
-
----
-
-## 🚀 My Learning Journey
+My goal is to gradually move from Web Development into **Web Security and Bug Bounty Hunting**.
 
 ```text
 HTML
@@ -89,50 +60,50 @@ CSS
   ↓
 JavaScript
   ↓
-DOM & Web APIs
+Web Fundamentals
   ↓
-Git & GitHub
+HTTP & Networking
   ↓
-Building Projects
+Web Security
   ↓
-More Web Development 🚀
+Security Testing
+  ↓
+Bug Bounty 🎯
 ```
+
+---
+
+## 🎯 My Goal
+
+> **Become a skilled Bug Bounty Hunter by first building a strong foundation in Web Development, Networking, Linux, and Web Security.**
+
+I'm currently focused on learning the fundamentals rather than rushing into bug hunting.
 
 ---
 
 ## 📂 Projects
 
-I'm currently building projects while learning Web Development.
+I'm building small projects while learning Web Development.
+
+Each project helps me understand how websites work and improves my programming skills.
 
 > 🚧 More projects coming soon...
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" width="40%">
-
-</a>
-
-</div>
-
----
-
-## 🎯 2026 Goals
+## 🎯 Learning Goals
 
 * [ ] Master HTML5
 * [ ] Master CSS3
 * [ ] Learn JavaScript deeply
-* [ ] Build real-world projects
-* [ ] Improve Git & GitHub skills
-* [ ] Learn more about Web Development
-* [ ] Create a strong GitHub portfolio
+* [ ] Understand the DOM
+* [ ] Understand HTTP & Web Fundamentals
+* [ ] Improve Networking fundamentals
+* [ ] Improve Linux skills
+* [ ] Learn Web Security
+* [ ] Practice on legal security labs
+* [ ] Start Bug Bounty Hunting 🎯
+* [ ] Build a strong security-focused portfolio
 
 ---
 
@@ -152,7 +123,7 @@ I'm currently building projects while learning Web Development.
 
 <br><br>
 
-**Code → Debug → Fix → Learn → Repeat 🔁**
+**Code → Break → Understand → Fix → Learn → Repeat 🔁**
 
 </div>
 
@@ -160,9 +131,10 @@ I'm currently building projects while learning Web Development.
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building.
+### 🐧 Learn. Build. Secure. Repeat.
 
 **Thanks for visiting my profile! 👋**
 
 </div>
+
 
